@@ -20,7 +20,7 @@ Autonómicas,Castilla - La Mancha,Clm.,,,/html/body/div[3]/div[3]/div[5]/div[1]/
 Autonómicas,Castilla y León,Cyl.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Castilian-Leonese_regional_election
 Autonómicas,"Cataluña",Cat.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Next_Catalan_regional_election
 Autonómicas,Ceuta,Ceu.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/2023_Ceuta_Assembly_election
-Autonómicas,"Madrid, Comunidad de",Mad.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/2021_Madrilenian_regional_election
+Autonómicas,"Madrid, Comunidad de",Mad.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/2021_Madrilenian_regional_election
 Autonómicas,"Murcia, Región de",Mur.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Murcian_regional_election
 Autonómicas,"Navarra, Comunidad Foral de",Nav.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Navarrese_regional_election
 Autonómicas,Comunitat Valenciana,Val.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Valencian_regional_election
@@ -73,4 +73,4 @@ Municipales,Elche/Elx,Val.,Alicante,Elche,/html/body/div[3]/div[3]/div[5]/div[1]
 Municipales,València,Val.,Valencia,Valencia,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/2023_Valencia_City_Council_election
 Municipales,Vila-real,Val.,Castellón,Villarreal,/html/body/div[3]/div[3]/div[5]/div[1]/table[39],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
 Municipales,Vinaròs,Val.,Castellón,Vinaroz,/html/body/div[3]/div[3]/div[5]/div[1]/table[40],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-#Forales,Gipuzkoa,Eus.,Gipuzkoa,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/2023_Basque_foral_elections
+Forales,Gipuzkoa,Eus.,Gipuzkoa,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/2023_Basque_foral_elections
