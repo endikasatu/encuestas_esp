@@ -49,7 +49,7 @@ devtools::install_github("endikasatu/theelectoralreport")
 La función para la descarga de las encuestas es `download_polls()` y admite 6 argumentos:
 
 - `tipo`: Tipo de elección. Pueden ser "generales", "autonomicas" o " municipales".
-- `ccaa`: Comunidad Autónoma donde se realiza la encuesta. Encuestas a nivel de España tendrán "**Esp.**" como `ccaa`.
+- `ccaa`: Comunidad Autónoma donde se realiza la encuesta. Encuestas a nivel de España tendrán "**Esp.**" como CCAA.
 - `prov`: Provincia donde se realiza la encuesta.
 - `mun`: Municipio donde se realiza la encuesta.
 - `pollster`: Encuestadora/Medio que realiza o publica la encuesta.
