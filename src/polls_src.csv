@@ -1,5 +1,7 @@
 type,literal,CCAA,Provincia,Municipio,xpath,url
 Generales,España,Esp.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election
+Generales,España,Esp.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election
+Generales,España,Esp.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election
 Generales,"Asturias, Principado de",Ast.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Sub-national_opinion_polling_for_the_next_Spanish_general_election
 Generales,Castilla y León,Cyl.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Sub-national_opinion_polling_for_the_next_Spanish_general_election
 Generales,Cataluña,Cat.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Sub-national_opinion_polling_for_the_next_Spanish_general_election
