@@ -42,73 +42,84 @@ Autonómicas,Melilla,Mel.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],http
 Autonómicas,Canarias,I.Can.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Next_Canarian_regional_election
 Autonómicas,Galicia,Gal.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Galician_regional_election
 Autonómicas,País Vasco,Eus.,,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Next_Basque_regional_election
-
-Municipales,Cádiz,And.,Cádiz,Cádiz,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Córdoba,And.,Córdoba,Córdoba,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Fuente de Piedra,And.,Málaga,Fuente de Piedra,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Granada,And.,Granada,Granada,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Jaén,And.,Jaén,Jaén,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Jerez de la Frontera,And.,Cádiz,Jerez de la Frontera,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Málaga,And.,Málaga,Málaga,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Puente Genil,And.,Córdoba,Puente Genil,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,Cádiz,And.,Cádiz,Cádiz,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Córdoba,And.,Córdoba,Córdoba,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Fuente de Piedra,And.,Málaga,Fuente de Piedra,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Granada,And.,Granada,Granada,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Jaén,And.,Jaén,Jaén,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Jerez de la Frontera,And.,Cádiz,Jerez de la Frontera,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Málaga,And.,Málaga,Málaga,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,Puente Genil,And.,Córdoba,Puente Genil,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
+Municipales,San Roque,And.,Cádiz,San Roque,/html/body/div[3]/div[3]/div[5]/div[1]/table[9],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Andalusia)
 Municipales,Sevilla,And.,Sevilla,Sevilla,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/2023_Seville_City_Council_election
-Municipales,Huesca,Ara.,Huesca,Huesca,/html/body/div[3]/div[3]/div[5]/div[1]/table[9],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Teruel,Ara.,Teruel,Teruel,/html/body/div[3]/div[3]/div[5]/div[1]/table[10],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Zaragoza,Ara.,Zaragoza,Zaragoza,/html/body/div[3]/div[3]/div[5]/div[1]/table[11],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Llanera,Ast.,Asturias,Llanera,/html/body/div[3]/div[3]/div[5]/div[1]/table[12],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Gijón,Ast.,Asturias,Gijón,/html/body/div[3]/div[3]/div[5]/div[1]/table[13],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Oviedo,Ast.,Asturias,Oviedo,/html/body/div[3]/div[3]/div[5]/div[1]/table[14],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Palma,I.Bal.,Mallorca,Palma,/html/body/div[3]/div[3]/div[5]/div[1]/table[15],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Ibiza,I.Bal.,Ibiza,,/html/body/div[3]/div[3]/div[5]/div[1]/table[16],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Mallorca,I.Bal.,Mallorca,,/html/body/div[3]/div[3]/div[5]/div[1]/table[17],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Menorca,I.Bal.,Menorca,,/html/body/div[3]/div[3]/div[5]/div[1]/table[18],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Bilbao,Eus.,Bizkaia,Bilbao,/html/body/div[3]/div[3]/div[5]/div[1]/table[19],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Donostia/San Sebastián,Eus.,Gipuzkoa,Donostia,/html/body/div[3]/div[3]/div[5]/div[1]/table[20],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Vitoria-Gasteiz,Eus.,Bizkaia,Vitoria-Gasteiz,/html/body/div[3]/div[3]/div[5]/div[1]/table[21],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,"Palmas de Gran Canaria, Las",I.Can.,Gran Canaria,Las Palmas G.C.,/html/body/div[3]/div[3]/div[5]/div[1]/table[22],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Santa Cruz de Tenerife,I.Can.,Tenerife,S.C. Tenerife,/html/body/div[3]/div[3]/div[5]/div[1]/table[23],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Gran Canaria,I.Can.,Las Palmas G.C.,Gran Canaria,/html/body/div[3]/div[3]/div[5]/div[1]/table[24],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,León,Cyl.,León,León,/html/body/div[3]/div[3]/div[5]/div[1]/table[25],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Toledo,Clm.,Toledo,Toledo,/html/body/div[3]/div[3]/div[5]/div[1]/table[26],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Badalona,Cat.,Barcelona,Badalona,/html/body/div[3]/div[3]/div[5]/div[1]/table[27],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Badajoz,Ext.,Badajoz,Badajoz,/html/body/div[3]/div[3]/div[5]/div[1]/table[28],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,"Coruña, A",Gal.,A Coruña,A Coruña,/html/body/div[3]/div[3]/div[5]/div[1]/table[29],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Ferrol,Gal.,A Coruña,Ferrol,/html/body/div[3]/div[3]/div[5]/div[1]/table[30],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Lugo,Gal.,Lugo,Lugo,/html/body/div[3]/div[3]/div[5]/div[1]/table[31],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Monforte de Lemos,Gal.,Lugo,Monforte de Lemos,/html/body/div[3]/div[3]/div[5]/div[1]/table[32],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Ourense,Gal.,Ourense,Ourense,/html/body/div[3]/div[3]/div[5]/div[1]/table[33],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Pontevedra,Gal.,Pontevedra,Pontevedra,/html/body/div[3]/div[3]/div[5]/div[1]/table[34],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Santiago de Compostela,Gal.,A Coruña,Santiago de Compostela,/html/body/div[3]/div[3]/div[5]/div[1]/table[35],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Sarria,Gal.,Lugo,Sarria,/html/body/div[3]/div[3]/div[5]/div[1]/table[36],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Vigo,Gal.,Pontevedra,Vigo,/html/body/div[3]/div[3]/div[5]/div[1]/table[37],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Vilagarcía de Arousa,Gal.,Pontevedra,Vilagarcía de Arousa,/html/body/div[3]/div[3]/div[5]/div[1]/table[38],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections 
-Municipales,Vilalba,Gal.,Lugo,Vilalba,/html/body/div[3]/div[3]/div[5]/div[1]/table[39],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Viveiro,Gal.,Lugo,Viveiro,/html/body/div[3]/div[3]/div[5]/div[1]/table[40],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Logroño,Rio.,Rioja,Logroño,/html/body/div[3]/div[3]/div[5]/div[1]/table[41],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Alcalá de Henares,Mad.,Madrid,Alcalá de Henares,/html/body/div[3]/div[3]/div[5]/div[1]/table[42],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Alcobendas,Mad.,Madrid,Alcobendas,/html/body/div[3]/div[3]/div[5]/div[1]/table[43],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Alcorcón,Mad.,Madrid,Alcorcón,/html/body/div[3]/div[3]/div[5]/div[1]/table[44],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Fuenlabrada,Mad.,Madrid,Fuenlabrada,/html/body/div[3]/div[3]/div[5]/div[1]/table[45],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Getafe,Mad.,Madrid,Getafe,/html/body/div[3]/div[3]/div[5]/div[1]/table[46],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Leganés,Mad.,Madrid,Leganés,/html/body/div[3]/div[3]/div[5]/div[1]/table[47],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Móstoles,Mad.,Madrid,Móstoles,/html/body/div[3]/div[3]/div[5]/div[1]/table[48],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,Huesca,Ara.,Huesca,Huesca,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Aragon)
+Municipales,Teruel,Ara.,Teruel,Teruel,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Aragon)
+Municipales,Zaragoza,Ara.,Zaragoza,Zaragoza,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Aragon)
+Municipales,Llanera,Ast.,Asturias,Llanera,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Asturias)
+Municipales,Gijón,Ast.,Asturias,Gijón,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Asturias)
+Municipales,Oviedo,Ast.,Asturias,Oviedo,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Asturias)
+Municipales,Palma,I.Bal.,Mallorca,Palma,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Balearic_Islands)
+Municipales,Ibiza,I.Bal.,Ibiza,,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Balearic_Islands)
+Municipales,Mallorca,I.Bal.,Mallorca,,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Balearic_Islands)
+Municipales,Menorca,I.Bal.,Menorca,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Balearic_Islands)
+Municipales,Bilbao,Eus.,Bizkaia,Bilbao,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Municipales,Donostia/San Sebastián,Eus.,Gipuzkoa,Donostia,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Municipales,Vitoria-Gasteiz,Eus.,Álava/Araba,Vitoria-Gasteiz,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Forales,Bizkaia,Eus.,Bizkaia,,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Forales,Gipuzkoa,Eus.,Gipuzkoa,,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Forales,Vitoria-Gasteiz,Eus.,Álava/Araba,,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Basque_Country)
+Municipales,"Palmas de Gran Canaria, Las",I.Can.,Gran Canaria,Las Palmas G.C.,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Canary_Islands)
+Municipales,Los Realejos,I.Can.,Tenerife,Los Realejos,/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Canary_Islands)
+Municipales,Santa Cruz de Tenerife,I.Can.,Tenerife,S.C. Tenerife,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,Gran Canaria,I.Can.,Las Palmas G.C.,Gran Canaria,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,León,Cyl.,León,León,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castile_and_Le%C3%B3n)
+Municipales,Ponferrada,Cyl.,León,Ponferrada,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castile_and_Le%C3%B3n)
+Municipales,Zamora,Cyl.,Zamora,Zamora,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castile_and_Le%C3%B3n)
+Municipales,Albacete,Clm.,Albacete,Albacete,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castilla%E2%80%93La_Mancha)
+Municipales,Guadalajara,Clm.,Guadalajara,Guadalajara,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castilla%E2%80%93La_Mancha)
+Municipales,Toledo,Clm.,Toledo,Toledo,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Castilla%E2%80%93La_Mancha)
+Municipales,Badalona,Cat.,Barcelona,Badalona,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Catalonia)
+Municipales,Lleida,Cat.,Lleida,Lleida,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Catalonia)
+Municipales,Badajoz,Ext.,Badajoz,Badajoz,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Extremadura)
+Municipales,Caceres,Ext.,Caceres,Caceres,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Extremadura)
+Municipales,"Coruña, A",Gal.,A Coruña,A Coruña,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Ferrol,Gal.,A Coruña,Ferrol,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Lugo,Gal.,Lugo,Lugo,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Monforte de Lemos,Gal.,Lugo,Monforte de Lemos,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Ourense,Gal.,Ourense,Ourense,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Pontevedra,Gal.,Pontevedra,Pontevedra,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Santiago de Compostela,Gal.,A Coruña,Santiago de Compostela,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Sarria,Gal.,Lugo,Sarria,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Vigo,Gal.,Pontevedra,Vigo,/html/body/div[3]/div[3]/div[5]/div[1]/table[9],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Vilagarcía de Arousa,Gal.,Pontevedra,Vilagarcía de Arousa,/html/body/div[3]/div[3]/div[5]/div[1]/table[10],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Vilalba,Gal.,Lugo,Vilalba,/html/body/div[3]/div[3]/div[5]/div[1]/table[11],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Viveiro,Gal.,Lugo,Viveiro,/html/body/div[3]/div[3]/div[5]/div[1]/table[12],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Galicia)
+Municipales,Logroño,Rio.,Rioja,Logroño,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(La_Rioja)
+Municipales,Alcalá de Henares,Mad.,Madrid,Alcalá de Henares,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Alcobendas,Mad.,Madrid,Alcobendas,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Alcorcón,Mad.,Madrid,Alcorcón,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Fuenlabrada,Mad.,Madrid,Fuenlabrada,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Getafe,Mad.,Madrid,Getafe,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Leganés,Mad.,Madrid,Leganés,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Móstoles,Mad.,Madrid,Móstoles,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
 Municipales,Madrid,Mad.,Madrid,Madrid,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/2023_Madrid_City_Council_election
-Municipales,Parla,Mad.,Madrid,Parla,/html/body/div[3]/div[3]/div[5]/div[1]/table[49],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Torrejón de Ardoz,Mad.,Madrid,Torrejón de Ardoz,/html/body/div[3]/div[3]/div[5]/div[1]/table[50],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Abanilla,Mur.,Murcia,Abanilla,/html/body/div[3]/div[3]/div[5]/div[1]/table[51],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Alguazas,Mur.,Murcia,Alguazas,/html/body/div[3]/div[3]/div[5]/div[1]/table[52],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Cartagena,Mur.,Murcia,Cartagena,/html/body/div[3]/div[3]/div[5]/div[1]/table[53],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Lorca,Mur.,Murcia,Lorca,/html/body/div[3]/div[3]/div[5]/div[1]/table[54],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Molina de Segura,Mur.,Murcia,Molina de Segura,/html/body/div[3]/div[3]/div[5]/div[1]/table[55],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Murcia,Mur.,Murcia,Murcia,/html/body/div[3]/div[3]/div[5]/div[1]/table[56],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Puerto Lumbreras,Mur.,Murcia,Puerto Lumbreras,/html/body/div[3]/div[3]/div[5]/div[1]/table[57],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,San Javier,Mur.,Murcia,San Javier,/html/body/div[3]/div[3]/div[5]/div[1]/table[58],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Yecla,Mur.,Murcia,Yecla,/html/body/div[3]/div[3]/div[5]/div[1]/table[59],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Pamplona/Iruña,Nav.,Navarra,Pamplona,/html/body/div[3]/div[3]/div[5]/div[1]/table[60],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Alicante/Alacant,Val.,Alicante,Alicante,/html/body/div[3]/div[3]/div[5]/div[1]/table[61],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Castelló de la Plana,Val.,Castellón,Castellón de la Plana,/html/body/div[3]/div[3]/div[5]/div[1]/table[62],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Elche/Elx,Val.,Alicante,Elche,/html/body/div[3]/div[3]/div[5]/div[1]/table[63],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,Parla,Mad.,Madrid,Parla,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Torrejón de Ardoz,Mad.,Madrid,Torrejón de Ardoz,/html/body/div[3]/div[3]/div[5]/div[1]/table[9],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Community_of_Madrid)
+Municipales,Abanilla,Mur.,Murcia,Abanilla,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Alguazas,Mur.,Murcia,Alguazas,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Cartagena,Mur.,Murcia,Cartagena,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Lorca,Mur.,Murcia,Lorca,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Molina de Segura,Mur.,Murcia,Molina de Segura,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Murcia,Mur.,Murcia,Murcia,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Puerto Lumbreras,Mur.,Murcia,Puerto Lumbreras,/html/body/div[3]/div[3]/div[5]/div[1]/table[7],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,San Javier,Mur.,Murcia,San Javier,/html/body/div[3]/div[3]/div[5]/div[1]/table[8],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Yecla,Mur.,Murcia,Yecla,/html/body/div[3]/div[3]/div[5]/div[1]/table[9],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Region_of_Murcia)
+Municipales,Pamplona/Iruña,Nav.,Navarra,Pamplona,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Navarre)
+Municipales,Alicante/Alacant,Val.,Alicante,Alicante,/html/body/div[3]/div[3]/div[5]/div[1]/table[1],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
+Municipales,Burriana,Val.,Castellón,Burriana,/html/body/div[3]/div[3]/div[5]/div[1]/table[2],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
+Municipales,Castelló de la Plana,Val.,Castellón,Castellón de la Plana,/html/body/div[3]/div[3]/div[5]/div[1]/table[3],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
+Municipales,Elche/Elx,Val.,Alicante,Elche,/html/body/div[3]/div[3]/div[5]/div[1]/table[4],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
 Municipales,València,Val.,Valencia,Valencia,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/2023_Valencia_City_Council_election
-Municipales,La Vall d'Uixó,Val.,Castellón,La Vall d'Uixó,/html/body/div[3]/div[3]/div[5]/div[1]/table[64],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Vila-real,Val.,Castellón,Villarreal,/html/body/div[3]/div[3]/div[5]/div[1]/table[65],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
-Municipales,Vinaròs,Val.,Castellón,Vinaroz,/html/body/div[3]/div[3]/div[5]/div[1]/table[66],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections
+Municipales,La Vall d'Uixó,Val.,Castellón,La Vall d'Uixó,/html/body/div[3]/div[3]/div[5]/div[1]/table[5],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
+Municipales,Vila-real,Val.,Castellón,Villarreal,/html/body/div[3]/div[3]/div[5]/div[1]/table[6],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
+Municipales,Vinaròs,Val.,Castellón,Vinaroz,/html/body/div[3]/div[3]/div[5]/div[1]/table[66],https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_local_elections_(Valencian_Community)
