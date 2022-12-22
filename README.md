@@ -2,11 +2,7 @@
 
 [![GitHub commit](https://img.shields.io/github/license/endikasatu/encuestas_esp)](https://github.com/endikasatu/catalunya-2021-model/blob/main/LICENSE) [![GitHub commit](https://img.shields.io/github/last-commit/endikasatu/encuestas_esp)](https://github.com/endikasatu/catalunya-2021-model/blob/main/LICENSE) 
 
-Todas las encuestas públicas para las próximas elecciones generales, autonómicas y municipales en España recogidas por TheElectoralReport.
-
-Consulta todas las encuestas en [TheElectoralReport](https://electoralreport.com/interactivos/encuestas/).
-
-Creado por [Endika Nuñez](twitter.com/endikasatu).
+Todas las encuestas públicas para las próximas elecciones europeas, generales, autonómicas, municipales, cabildos y forales en España, agregadas por [Endika Nuñez](twitter.com/endikasatu)  para [TheElectoralReport](https://electoralreport.com/interactivos/encuestas/) y actualizadas cada hora.
 
 ## Archivos disponibles
 
