@@ -6,8 +6,6 @@ Todas las encuestas públicas para las próximas elecciones europeas, generales,
 
 ## Archivos disponibles
 
-Este repositorio mantiene actualizados 3 archivos .csv.
-
 - **[data/spain-polls-2019-2023.csv](https://raw.githubusercontent.com/endikasatu/encuestas_esp/main/data/spain-polls-2019-2023.csv)**: Todas las encuestas.
 - **[data/polls-table.html](https://raw.githubusercontent.com/endikasatu/encuestas_esp/main/data/polls-table.html)**: Tabla HTML de las encuestas. 
 - **[data/last-update.txt](https://raw.githubusercontent.com/endikasatu/encuestas_esp/main/data/last-update.txt)**: Fecha de la última actualización.
