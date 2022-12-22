@@ -14,7 +14,7 @@ Este repositorio mantiene actualizados 3 archivos .csv.
 
 - **data/spain-polls-2019-2023.csv**: Todas las encuestas.
 - **data/polls-table.html**: Tabla HTML de las encuestas. 
-- **data/last-update.txt **: Fecha de la última actualización.
+- **data/last-update.txt**: Fecha de la última actualización.
 - **src/polls_src.csv**: URL de las encuestas en la Wikipedia.
 
 ## Variables
